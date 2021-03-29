@@ -2,9 +2,9 @@
 
 This repository is part of my participation in Hugging Face Fine Tuning week of XLRS Wav2Vec2 on Common Voice Corpus 4 Arabic dataset.
 
-The mini_arabic.ipynb notebook contains all data preprocessing and training steps.
+The [mini_arabic.ipynb](https://github.com/anashas/Fine-Tuning-of-XLSR-Wav2Vec2-on-Arabic/blob/main/mini_arabic.ipynb) notebook contains all data preprocessing and training steps.
 
-The evaluation.ipynb notebook contains testing steps.
+The [evaluation.ipynb](https://github.com/anashas/Fine-Tuning-of-XLSR-Wav2Vec2-on-Arabic/blob/main/evaluation.ipynb) notebook contains testing steps.
 
 
 # Useful Links:
